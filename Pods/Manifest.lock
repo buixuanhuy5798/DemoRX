@@ -1,0 +1,52 @@
+PODS:
+  - Alamofire (4.8.2)
+  - AlamofireObjectMapper (5.1.0):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 3.3)
+  - ObjectMapper (3.3.0)
+  - Reusable (4.0.4):
+    - Reusable/Storyboard (= 4.0.4)
+    - Reusable/View (= 4.0.4)
+  - Reusable/Storyboard (4.0.4)
+  - Reusable/View (4.0.4)
+  - RxAtomic (4.4.2)
+  - RxCocoa (4.4.2):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - RxSwift (4.4.2):
+    - RxAtomic (>= 4.4.2, ~> 4.4)
+  - Then (2.4.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireObjectMapper
+  - ObjectMapper
+  - ObjectMapper (= 3.3)
+  - Reusable (= 4.0.4)
+  - RxCocoa
+  - RxSwift
+  - Then (= 2.4)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireObjectMapper
+    - ObjectMapper
+    - Reusable
+    - RxAtomic
+    - RxCocoa
+    - RxSwift
+    - Then
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  AlamofireObjectMapper: 3395e698901d8b0e6f48b7d0c43bd47875325102
+  ObjectMapper: b612bf8c8e99c4dc0bb6013a51f7c27966ed5da9
+  Reusable: 7fc772097df3e5fc86f59d8a7af9708e49b5ff55
+  RxAtomic: d00e97c10db88c6f08540e0bf2752fc5a2404167
+  RxCocoa: 477990dc3b4c3ff55fb0ac77e1cc06244e0aaec8
+  RxSwift: 74c29b693c8e42b0f64400e8b06564575742d649
+  Then: 71866660c7af35a7343831f7668e7cd2b62ee0f2
+
+PODFILE CHECKSUM: 617f8b6597db53fe6ea0b0d08edb839775b47a1d
+
+COCOAPODS: 1.5.3
